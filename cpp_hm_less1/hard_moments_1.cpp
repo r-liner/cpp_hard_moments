@@ -30,3 +30,5 @@ public:
 int main(){
 return 0;
 }
+
+//не справился
